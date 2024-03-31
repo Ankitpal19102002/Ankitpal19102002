@@ -17,9 +17,9 @@
 - 🔭 I’m currently working on building skills
 
 - 👯 I’m looking to collaborate with teams having interest in technology
-- 👨‍💻 All of my projects are available at https://github.com/Ankitpal19102002
+- 👨‍💻 All of my projects are available at https://github.com/Ankitpal19102002?tab=repositories
 
-- 💬 Ask me about Web Development,Computer networking,Python,C++,App Development
+- 💬 Ask me about Web Development, Computer networking, Python, C++, App Development
 
 - 📫 How to reach me ankitp19102002@gmail.com or aa1081@srmist.edu.in
 - ⚡ Enthusiastic coder turning imagination into reality—magic isn't just a trick, it's what happens when code meets creativity! ✨
@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankit0075085202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit0075085202" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit pal" height="30" width="40" /></a>
+<a href="https://twitter.com/Ankit0075085202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit0075085202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-pal-251b1a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit pal" height="30" width="40" /></a>
 <a href="https://instagram.com/musical_a_n_k_i_tttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musical_a_n_k_i_tttt" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srmk_141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmk_141" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aa1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aa1081" height="30" width="40" /></a>
