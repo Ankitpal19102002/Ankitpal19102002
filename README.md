@@ -1,4 +1,6 @@
-![logo](https://github.com/Ankitpal19102002/Ankitpal19102002/blob/main/wepik-export-20240331183943Abny.png)
+<img align="left" width="100%" height="400" src="https://github.com/Ankitpal19102002/Ankitpal19102002/blob/main/wepik-export-20240331183943Abny.png" />
+
+
 <h1 align="center">Hi 👋, I'm ANKIT PAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
