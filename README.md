@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpal19102002" alt="ankitpal19102002" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankit0075085202" target="blank"><img src="https://img.shields.io/twitter/follow/ankit0075085202?logo=twitter&style=for-the-badge" alt="ankit0075085202" /></a> </p>
+
 <img align="right" alt=“coding” width=350 src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 
@@ -45,6 +46,11 @@
 <br><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpal19102002&" alt="ankitpal19102002" /></p>
 
-<br><br><br>
-### Contribution Graph
+<br>
+<br>
+<br>
+<br><br><br><br><br><br><br>
+<h3 align="left">Contribution Graph</h3>
+<br/>
+
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitpal19102002&theme=github-compact)
