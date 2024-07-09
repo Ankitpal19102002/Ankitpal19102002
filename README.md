@@ -1,4 +1,4 @@
-<img align="left" width="100%" height="240" src="https://github.com/Ankitpal19102002/Ankitpal19102002/blob/c85ac723574f55246c7a9272615017e2c9874d97/banner.png" />
+<img align="left" width="100%" height="240" src="https://github.com/Ankitpal19102002/Ankitpal19102002/blob/4bb6389b8503ae6a6ef07f023db8fd7dc3e7f675/banner1.png" />
 
 
 <h1 align="center">Hi 👋, I'm ANKIT PAL</h1>
