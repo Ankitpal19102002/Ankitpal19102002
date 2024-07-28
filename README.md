@@ -53,6 +53,6 @@
 <h3 align="left">Contribution Graph</h3>
 <br/>
 
-<img align="right" alt=“coding” width=350 src=https://github.com/Ankitpal19102002/Ankitpal19102002/blob/1d880523129575dbecb414567e2ddd97da5d7c97/github-snake.svg>
+<img align="center" alt=“coding” width=100% src=https://github.com/Ankitpal19102002/Ankitpal19102002/blob/1d880523129575dbecb414567e2ddd97da5d7c97/github-snake.svg>
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitpal19102002&theme=github-compact)
